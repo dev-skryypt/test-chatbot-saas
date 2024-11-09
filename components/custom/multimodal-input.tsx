@@ -33,6 +33,11 @@ const suggestedActions = [
     label: 'about Silicon Valley',
     action: 'Help me draft a short essay about Silicon Valley',
   },
+  {
+    title: 'Help me draft an essay',
+    label: 'about Silicon Valley',
+    action: 'Help me draft a short essay about Silicon Valley',
+  },
 ];
 
 export function MultimodalInput({

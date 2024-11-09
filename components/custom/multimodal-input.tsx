@@ -29,12 +29,7 @@ const suggestedActions = [
     action: 'What is the weather in San Francisco?',
   },
   {
-    title: 'Help me draft an essay',
-    label: 'about Silicon Valley',
-    action: 'Help me draft a short essay about Silicon Valley',
-  },
-  {
-    title: 'Help me draft an essay',
+    title: 'Help me say vows',
     label: 'about Silicon Valley',
     action: 'Help me draft a short essay about Silicon Valley',
   },

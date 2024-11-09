@@ -4,7 +4,7 @@ import { LoaderIcon } from './icons';
 
 export const PreviewAttachment = ({
   attachment,
-  isUploading = false,
+  isUploading = true,
 }: {
   attachment: Attachment;
   isUploading?: boolean;

@@ -42,7 +42,7 @@ const suggestedActions = [
     title: 'Convince Me',
     label: 'about Star Wars',
     action: 'Help me draft a short essay about Why Star Wars is the Greatest Film Franchise ever',
-  },
+  }
 ];
 
 export function MultimodalInput({

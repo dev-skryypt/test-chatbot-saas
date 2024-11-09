@@ -29,9 +29,19 @@ const suggestedActions = [
     action: 'What is the weather in San Francisco?',
   },
   {
-    title: 'Help me say vows',
-    label: 'about Silicon Valley',
-    action: 'Help me draft a short essay about Silicon Valley',
+    title: 'Help me tell a story',
+    label: 'about Computer Science',
+    action: 'Help me draft a short essay about Computer Science',
+  },
+  {
+    title: 'Help me fall in love',
+    label: 'with Romantic Comedies',
+    action: 'Help me draft a short essay about Romantic comedy movies',
+  },
+  {
+    title: 'Convince Me',
+    label: 'about Star Wars',
+    action: 'Help me draft a short essay about Why Star Wars is the Greatest Film Franchise ever',
   },
 ];
 
